@@ -1,15 +1,16 @@
-# End Sorting
+# Getting Maximum
 
-Given a list A of N distinct integer numbers, you can sort the list by moving an element to the end of the list. Find the minimum number of moves required to sort the list using this method in ascending order. 
+Given an alphanumeric string S, extract maximum numeric value from that string. All the alphabets are in lower case. Take the maximum consecutive digits as a single number.
 
-The first line of the input contains N distinct integers of list A separated by a space. You have to print the minimum number of moves required to sort the elements.
+
+The first line of the input contains the string S. You have to print the maximum value.
 
 ## Examples
 
 ##### Input:
 
-[1, 3, 2, 4, 5]
+23dsa43dsa98
 
 ##### Output:
 
-3
+98
